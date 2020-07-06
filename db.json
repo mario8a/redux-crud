@@ -2,7 +2,7 @@
   "productos": [
     {
       "nombre": "Jugo de Fresa",
-      "precio": "200",
+      "precio": "700",
       "id": 5
     },
     {
@@ -14,6 +14,11 @@
       "nombre": "Juego de manzana",
       "precio": 100,
       "id": 7
+    },
+    {
+      "nombre": "Azucar",
+      "precio": 15,
+      "id": 8
     }
   ]
 }
